@@ -1,2 +1,2 @@
 # PowerBI
-Madhan's Ecommerce Sales Dashboard
+Ecommerce Sales Dashboard
